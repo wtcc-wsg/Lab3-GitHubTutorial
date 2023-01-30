@@ -26,3 +26,5 @@ else:
 # Calculate total number of animals at the shelter
 total = num_dogs + num_cats
 print(f'TOTAL shelter population is {str(total)} animals')
+
+h
